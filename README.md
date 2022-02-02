@@ -1,6 +1,9 @@
 # NFT-Play
 NFT-Play is an iPhone based project using SwiftUI, MVVM-C, Combine, NFT, OpenSea,etc. This project is a structural project to work and further learning in the state of the art iOS ecosystem.
 
+![image](https://user-images.githubusercontent.com/14813344/152113404-c92a89ef-61fd-472c-8cc9-ba54b976c956.png)
+
+
 ## Major Topics in this project:
 
 - MVVM with SwiftUI 
